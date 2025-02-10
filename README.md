@@ -15,7 +15,7 @@ Tomar en cuenta que debes tener instalado en tu PC docker y tener libre los puer
 
 ### 1️⃣ Clonar el repositorio
 ```sh
-git clone https://github.com/tu-usuario/spring-kafka-docker-example.git
+git clone https://github.com/tu-usuario/spring-kafka-docker-example.git](https://github.com/jrlopez-dev/kafka-producer-consumer-con-springboot
 cd kafka-producer-consumer-con-springboot
 
 ### 2️⃣ Levantar los contenedores
