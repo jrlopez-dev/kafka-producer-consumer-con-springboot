@@ -26,7 +26,7 @@ docker logs kafka
 
 ### 4️⃣ Acceder a la interfaz de Swagger de ambos servicios para interactuar
 
-url de servicio producer: [localhos](http://localhost:8080/documentacion.html)
+url de servicio producer: http://localhost:8080/documentacion.html
 
-url de servicio consumer: [localhos](http://localhost:8081/documentacion.html)
+url de servicio consumer: localhos](http://localhost:8081/documentacion.html
 
